@@ -1,8 +1,13 @@
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+
 # Generate Exhibit Coverpages
 
 Are you the sad sucker who has to compile the Exhibits in pleadings prior to subnmission to the Court? Are you skilled at dragging and dropping Preview thumbnails or Acrobat PDFs from one Exhibit A-Z or Exhibits 1-100 to the associated exhibit? Does it suck to do this over and over and over and over agian, wondering if you went to law school for this or worse, you're the paralegal tasked with doing this mindless job.  Presenting generate_exhibits a Bash script and accompanying files to make this segment of your life obsolete giving you more time to do whatever. 
 
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/YOU/YOUR-REPO)
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+
 
 **Install**
 
@@ -59,9 +64,8 @@ seperate_pdf.sh has a few functions if you want to use the mail merge .docx and 
 ```
 pdfseparate EX_.pdf EX_%05d.pdf
 ```
-
-
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
 **License**
 
