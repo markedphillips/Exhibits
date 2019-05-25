@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+<center>[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)</center>
 
 # Generate Exhibit Coverpages
 
@@ -6,7 +6,6 @@ Are you the sad sucker who has to compile the Exhibits in pleadings prior to sub
 
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-3D76C2.svg)](https://github.com/YOU/YOUR-REPO)
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
 
 **Install**
@@ -64,9 +63,16 @@ seperate_pdf.sh has a few functions if you want to use the mail merge .docx and 
 ```
 pdfseparate EX_.pdf EX_%05d.pdf
 ```
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-**License**
+**The "If I Don't Like You License"**
 
-License. If you are anyone that litigates against me, my family, friends, then you absolutely can go fuck yourself. Which means you are not authorized to use in any way this repo. If you volunteer your time to helping those without legal funds defend or protect their rights, you may submit issues or communicate with me regarding any bugs or features. Otherwise, absolutely no support is given, nor should there be a need, this is a super simple plebeian task automated for macOS. While it should work in Ubuntu, I have not tested it. But I will be updating the repo when I do since my goal is to have this running on a Synology NAS with additional support for automation.
+Waiver. By cloning this repo you agree to forever release any and all known and unknown claims against me, my heirs, and any of my affiliates.  Breach of this agreement, even the threat of a claim or any action by you, percieved by me to assert claims, will cause uncalculatable harm.  However, for the purpose of quantifying damages in state, federal, international, and galaxian law, you agree to liquidated damages of a googleplex.  
+
+Parties.  If you are an attorney adverse to my interests or the interests of any entity to which I have an interest, then you personally and your associates, firm, or company can absolutely go fuck yourself. Which means you are not authorized to use in of the source code or ideas in this or any of my other repos. If you volunteer your time to helping those without legal funds, defend or protect the rights of anyone without means, you may submit issues or communicate with me regarding any bugs or features. Whether or not any updates to this repo occur is another matter.  Any suggestions, ideas, or feedback,  you provide to me you agree to the terms of this License. Otherwise, do expect there to be massive updates here, nor should there be a need, this is probably the most super simple plebeian task of automation for splitting, merging, and preparing PDFs. 
+
+Linux.  While it should work in Ubuntu, I have not tested it. But I will be updating this repo when I get it working on a Synology NAS and Cloudshell2 with additional support with entr.
+
+[![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://forthebadge.com)
