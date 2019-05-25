@@ -1,5 +1,4 @@
-<center>[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)</center>
-
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 # Generate Exhibit Coverpages
 
 Are you the sad sucker who has to compile the Exhibits in pleadings prior to subnmission to the Court? Are you skilled at dragging and dropping Preview thumbnails or Acrobat PDFs from one Exhibit A-Z or Exhibits 1-100 to the associated exhibit? Does it suck to do this over and over and over and over agian, wondering if you went to law school for this or worse, you're the paralegal tasked with doing this mindless job.  Presenting generate_exhibits a Bash script and accompanying files to make this segment of your life obsolete giving you more time to do whatever. 
@@ -71,7 +70,9 @@ pdfseparate EX_.pdf EX_%05d.pdf
 
 Waiver. By cloning this repo you agree to forever release any and all known and unknown claims against me, my heirs, and any of my affiliates.  Breach of this agreement, even the threat of a claim or any action by you, percieved by me to assert claims, will cause uncalculatable harm.  However, for the purpose of quantifying damages in state, federal, international, and galaxian law, you agree to liquidated damages of a googleplex.  
 
-Parties.  If you are an attorney adverse to my interests or the interests of any entity to which I have an interest, then you personally and your associates, firm, or company can absolutely go fuck yourself. Which means you are not authorized to use in of the source code or ideas in this or any of my other repos. If you volunteer your time to helping those without legal funds, defend or protect the rights of anyone without means, you may submit issues or communicate with me regarding any bugs or features. Whether or not any updates to this repo occur is another matter.  Any suggestions, ideas, or feedback,  you provide to me you agree to the terms of this License. Otherwise, do expect there to be massive updates here, nor should there be a need, this is probably the most super simple plebeian task of automation for splitting, merging, and preparing PDFs. 
+Parties.  If you are an attorney adverse to my interests or the interests of any entity to which I have an interest, then you personally and your associates, firm, or company can absolutely go fuck yourself. Which means you are not authorized to use in any way shape or form anything here, including source code, ideas, the Word .docx and .xlsx file, and especially the coverpage templates.  Obviously, this applies to any of the other repos which may or may not have a "I don't like you license" prominent in the README.MD. 
+
+If you volunteer your time to helping those without legal funds, defend or protect the rights of anyone without means, you may submit issues or communicate with me regarding any bugs or features. Whether or not any updates to this repo occur is another matter.  Any suggestions, ideas, or feedback,  you provide to me, you agree to the terms of this License. Otherwise, don't expect there to be massive updates here, nor should there be a need, this is probably the most simple plebeian task of automation for splitting, merging, and preparing PDFs. 
 
 Linux.  While it should work in Ubuntu, I have not tested it. But I will be updating this repo when I get it working on a Synology NAS and Cloudshell2 with additional support with entr.
 
