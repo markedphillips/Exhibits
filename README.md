@@ -17,7 +17,7 @@ git clone https://github.com/markedphillips/generate_exhibits
 ```
 cd generate_exhibits
 mkdir -p ~/Documents/Exhibit_Coversheets
-cp -v ./*.pdf ~/Documents/Exhibit_Coversheets
+cp -v ./coverpages/*.pdf ~/Documents/Exhibit_Coversheets
 pico ./generate_exhibits.sh
 # Ctrl-W, COVERSHEET_PATH
 # Change COVERSHEET_PATH='/Users/[YOURNAMEHERE]/Documents/Exhibit_Coversheets'
