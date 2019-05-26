@@ -77,3 +77,6 @@ If you volunteer your time to helping those without legal funds, defend or prote
 Linux.  While it should work in Ubuntu, I have not tested it. But I will be updating this repo when I get it working on a Synology NAS and Cloudshell2 with additional support with entr.
 
 [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-treenuts.svg)](https://forthebadge.com)
+
+**TODO**
+The exhibit coverpages assume you are building from exhibit 1 onward, which means if you just run this script with Ex_005 it will fuck up. And I don't care. 
